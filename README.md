@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beri12
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning ccna
+- 👀 I’m web developer
+- 🌱  always practice in coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
