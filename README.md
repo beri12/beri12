@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @beri12
-- 👀 I’m web developer
-- 🌱  always practice in coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-beri12/beri12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Hi 
+I'm Beriso Beker  from Ethiopia and I do web developer and Application. I really enjoy learn language and frameworks like React, next.js, Angular  and nest.js as well as work as full stack developer.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beriso Beker&theme=dark&show_icons=true)
